@@ -1,4 +1,5 @@
 location of the cli
+
 /opt/homebrew/lib/node_modules/@anthropic-ai/claude-code
 
 # claude-code-system-prompt-cli
