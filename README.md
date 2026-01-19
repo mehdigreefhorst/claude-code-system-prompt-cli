@@ -1,3 +1,6 @@
+location of the cli
+/opt/homebrew/lib/node_modules/@anthropic-ai/claude-code
+
 # claude-code-system-prompt-cli
 repository that shows the secrets of claude code for agentic coding
 
