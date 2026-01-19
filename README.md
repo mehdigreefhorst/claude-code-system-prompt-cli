@@ -138,6 +138,7 @@ Always respond in ${W}. Use ${W} for all explanations, comments, and communicati
 `:"",J!==null?`
 # Output Style: ${J.name}
 ${J.prompt}
+
 # Other section of important text
 ## Insights
 In order to encourage learning, before and after writing code, always provide brief educational explanations about implementation choices using (with backticks):
